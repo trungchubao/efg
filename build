@@ -1,0 +1,2 @@
+#!/bin/bash
+gcc -o efg main.c parse.c count.c
