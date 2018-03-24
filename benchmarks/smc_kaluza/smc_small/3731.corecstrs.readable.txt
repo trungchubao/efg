@@ -1,0 +1,6 @@
+T_1=T1_3.T2_3 
+len(T2_3) = 0 
+T1_3=var_0xINPUT_24194 
+PCTEMP_LHS_2=PCTEMP_LHS_1 
+! (PCTEMP_LHS_2 in /%/) 
+query var_0xINPUT_24194

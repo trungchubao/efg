@@ -1,0 +1,2 @@
+var_0xINPUT_205567="https:" 
+query var_0xINPUT_205567

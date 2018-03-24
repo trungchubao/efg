@@ -1,0 +1,2 @@
+! ("</div><img"=var_0xINPUT_28294) 
+query var_0xINPUT_28294

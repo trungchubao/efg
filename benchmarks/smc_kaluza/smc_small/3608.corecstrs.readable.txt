@@ -1,0 +1,9 @@
+len(var_0xINPUT_73266) = 0 
+ 
+len(var_0xINPUT_73266) = 0 
+ 
+! (var_0xINPUT_73266="Example:") 
+ 
+ 
+! (var_0xINPUT_73266="CQALcCP5TB") 
+query var_0xINPUT_73266

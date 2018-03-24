@@ -1,0 +1,13 @@
+var_0xINPUT_9=T0_2.T1_2 
+T1_2=PCTEMP_LHS_1_idx_0.T2_2 
+! (T0_2 in /john/)
+ 
+ 
+ 
+ 
+PCTEMP_LHS_1_group_1=PCTEMP_LHS_1_idx_0 
+PCTEMP_LHS_1_idx_0 in /john/ 
+ 
+len (PCTEMP_LHS_1_idx_0) >= 0
+len (PCTEMP_LHS_1_idx_0) <= 14
+query var_0xINPUT_9

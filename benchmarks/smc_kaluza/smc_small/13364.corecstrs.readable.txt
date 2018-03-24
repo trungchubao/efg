@@ -1,0 +1,2 @@
+"BKGavGeHab"=var_0xINPUT_110945 
+query var_0xINPUT_110945

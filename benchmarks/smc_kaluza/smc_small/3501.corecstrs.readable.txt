@@ -1,0 +1,10 @@
+! ("CQALcCP5TB"=var_0xINPUT_151984) 
+ 
+ 
+len(var_0xINPUT_151984) = 0 
+ 
+! (var_0xINPUT_151984="Example:") 
+ 
+ 
+! (var_0xINPUT_151984="CQALcCP5TB") 
+query var_0xINPUT_151984

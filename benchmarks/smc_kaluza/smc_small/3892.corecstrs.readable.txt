@@ -1,0 +1,4 @@
+! (PCTEMP_LHS_1 in /^\s+|\s+$/) 
+PCTEMP_LHS_1=var_0xINPUT_71506 
+! (len(PCTEMP_LHS_1) = 0) 
+query var_0xINPUT_71506

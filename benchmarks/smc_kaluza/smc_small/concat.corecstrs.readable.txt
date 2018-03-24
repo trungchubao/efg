@@ -1,0 +1,8 @@
+PCTEMP_LHS_1=T1_2.T2_2 
+T2_2="=Online" 
+T1_2=var_0xINPUT_2 
+T_2=T1_6.T2_6 
+T2_6="Now" 
+T1_6=PCTEMP_LHS_1 
+! (T_2="Hello=Joe=OnlineNow") 
+query var_0xINPUT_2

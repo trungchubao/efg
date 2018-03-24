@@ -1,0 +1,4 @@
+len(var_0xINPUT_42498) = 0 
+ 
+len(var_0xINPUT_42498) = 0 
+query var_0xINPUT_42498

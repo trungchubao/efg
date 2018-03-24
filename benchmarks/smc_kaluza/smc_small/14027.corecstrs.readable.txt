@@ -1,0 +1,2 @@
+var_0xINPUT_232006="Search" 
+query var_0xINPUT_232006

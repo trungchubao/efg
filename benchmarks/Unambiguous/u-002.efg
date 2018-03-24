@@ -1,0 +1,5 @@
+Terminal = (|a,b|)
+Non-terminal = (|S,A,B|)
+S = A+B|A+S+B
+A = a
+B = b

@@ -1,0 +1,12 @@
+T0_2=PCTEMP_LHS_1_idx_0 
+T0_2=var_0xINPUT_200076 
+ 
+ 
+ 
+T_4=PCTEMP_LHS_1_idx_0 
+T0_8=PCTEMP_LHS_2_idx_0 
+T0_8=T_4 
+T_6=PCTEMP_LHS_2_idx_0 
+T_6="BizographicData" 
+len (PCTEMP_LHS_1) >= 0
+query var_0xINPUT_200076

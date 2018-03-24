@@ -1,0 +1,2 @@
+! (var_0xINPUT_107442="GGnNNButOC") 
+query var_0xINPUT_107442

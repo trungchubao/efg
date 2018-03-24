@@ -1,0 +1,2 @@
+"eBD0VcucAX"=var_0xINPUT_122700 
+query var_0xINPUT_122700

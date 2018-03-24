@@ -1,0 +1,6 @@
+len(var_0xINPUT_73800) = 0 
+ 
+len(var_0xINPUT_73800) = 0 
+ 
+! ("AUEAICDdfN"=var_0xINPUT_73800) 
+query var_0xINPUT_73800

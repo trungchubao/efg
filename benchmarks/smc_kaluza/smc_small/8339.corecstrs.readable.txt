@@ -1,0 +1,2 @@
+! ("IqdseYFapp"=var_0xINPUT_109742) 
+query var_0xINPUT_109742

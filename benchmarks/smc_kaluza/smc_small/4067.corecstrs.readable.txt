@@ -1,0 +1,5 @@
+T0_2=PCTEMP_LHS_1_idx_0 
+T0_2=var_0xINPUT_200076 
+ 
+len (PCTEMP_LHS_1) >= 0
+query var_0xINPUT_200076

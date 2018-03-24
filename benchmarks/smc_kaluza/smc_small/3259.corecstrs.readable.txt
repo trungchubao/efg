@@ -1,0 +1,11 @@
+len(var_0xINPUT_284402) = 0 
+ 
+! (var_0xINPUT_284402="array") 
+ 
+ 
+PCTEMP_LHS_1=var_0xINPUT_284402 
+! (PCTEMP_LHS_1 in /%/) 
+T_5=T1_8.T2_8 
+T2_8=PCTEMP_LHS_1 
+T1_8="type=" 
+query var_0xINPUT_284402

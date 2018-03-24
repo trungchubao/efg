@@ -1,0 +1,2 @@
+"bLBKTGbnvu"=var_0xINPUT_102002 
+query var_0xINPUT_102002

@@ -1,0 +1,2 @@
+"-"=var_0xINPUT_107666 
+query var_0xINPUT_107666

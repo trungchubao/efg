@@ -1,0 +1,2 @@
+"aDSQstEiKr"=var_0xINPUT_102877 
+query var_0xINPUT_102877

@@ -1,0 +1,18 @@
+! (len(var_0xINPUT_4915) = 0) 
+ 
+ 
+! (len(var_0xINPUT_4915) = 0) 
+ 
+ 
+ 
+ 
+var_0xINPUT_4915=T0_6.T1_6 
+ 
+len(T0_6) = 0 
+T1_6=T2_6.T3_6 
+T2_6=T4_6.T5_6 
+T5_6="GASO=" 
+! (T4_6 in /GASO=/)
+ 
+len (T4_6) >= 0
+query var_0xINPUT_4915

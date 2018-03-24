@@ -1,0 +1,2 @@
+var_0xINPUT_226573="Type" 
+query var_0xINPUT_226573

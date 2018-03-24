@@ -1,0 +1,6 @@
+len(var_0xINPUT_243515) = 0 
+ 
+len(var_0xINPUT_243515) = 0 
+ 
+! ("MEXdqBDMmF"=var_0xINPUT_243515) 
+query var_0xINPUT_243515

@@ -1,0 +1,2 @@
+! (len(var_0xINPUT_226526) = 0) 
+query var_0xINPUT_226526

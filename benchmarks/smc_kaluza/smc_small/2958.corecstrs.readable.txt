@@ -1,0 +1,15 @@
+! ("AA1ND6MEXd"=var_0xINPUT_84939) 
+ 
+ 
+len(var_0xINPUT_84939) = 0 
+ 
+! (var_0xINPUT_84939="Example:") 
+ 
+ 
+len(var_0xINPUT_84939) = 0 
+ 
+! (var_0xINPUT_84939="Example:") 
+ 
+ 
+! (var_0xINPUT_84939="AA1ND6MEXd") 
+query var_0xINPUT_84939

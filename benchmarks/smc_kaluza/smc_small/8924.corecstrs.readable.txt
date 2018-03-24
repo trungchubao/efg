@@ -1,0 +1,2 @@
+! ("YY8CBEMy6Q"=var_0xINPUT_223234) 
+query var_0xINPUT_223234

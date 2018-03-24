@@ -1,0 +1,4 @@
+len(var_0xINPUT_40963) = 0 
+ 
+! (var_0xINPUT_40963="6JX7G3VKFq") 
+query var_0xINPUT_40963

@@ -1,0 +1,21 @@
+var_0xINPUT_2=T0_2.T1_2 
+T1_2=T2_2.T3_2 
+! (T0_2 in /=/) 
+T4_2=T5_2.T3_2 
+PCTEMP_LHS_1=T0_2.T4_2 
+T5_2="_" 
+T2_2="=" 
+ 
+ 
+PCTEMP_LHS_1=T0_4.T1_4 
+ 
+len(T0_4) = 0 
+T1_4=T2_4.T3_4 
+T2_4=T4_4.T5_4 
+T5_4="_" 
+! (T4_4 in /_/)
+ 
+ 
+len (T4_4) >= 5
+len (T4_4) <= 5
+query var_0xINPUT_2

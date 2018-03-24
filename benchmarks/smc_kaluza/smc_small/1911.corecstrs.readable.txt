@@ -1,0 +1,26 @@
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+PCTEMP_LHS_3=var_0xINPUT_43586 
+T0_24=PCTEMP_LHS_4_idx_0 
+T0_24=PCTEMP_LHS_3 
+! (PCTEMP_LHS_5="[object") 
+len (T_3) >= 0
+len (T_3) <= 4294967290
+len (T_6) >= 0
+len (T_9) >= 0
+len (T_c) >= 0
+query var_0xINPUT_43586

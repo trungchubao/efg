@@ -1,0 +1,2 @@
+"QcvDEB7PGX"=var_0xINPUT_103305 
+query var_0xINPUT_103305

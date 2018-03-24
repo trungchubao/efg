@@ -1,0 +1,2 @@
+! ("h0x5LoSlC4"=var_0xINPUT_102047) 
+query var_0xINPUT_102047

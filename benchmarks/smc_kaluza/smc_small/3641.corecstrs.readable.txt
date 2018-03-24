@@ -1,0 +1,10 @@
+! (PCTEMP_LHS_1 in /^\s+|\s+$/) 
+PCTEMP_LHS_1=var_0xINPUT_71984 
+! (len(PCTEMP_LHS_1) = 0) 
+ 
+ 
+ 
+ 
+len (PCTEMP_LHS_1) >= 0
+!(len (PCTEMP_LHS_1) = 4)
+query var_0xINPUT_71984

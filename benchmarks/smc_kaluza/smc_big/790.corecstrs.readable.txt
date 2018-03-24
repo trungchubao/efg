@@ -1,0 +1,64 @@
+! ("CQALcCP5TB"=var_0xINPUT_176947) 
+ 
+ 
+len(var_0xINPUT_176947) = 0 
+ 
+len(var_0xINPUT_176947) = 0 
+ 
+len(var_0xINPUT_176947) = 0 
+ 
+! (len(var_0xINPUT_176947) = 0) 
+ 
+ 
+len(var_0xINPUT_176947) = 0 
+ 
+len(var_0xINPUT_176947) = 0 
+ 
+len(var_0xINPUT_176947) = 0 
+ 
+! (len(var_0xINPUT_176947) = 0) 
+ 
+ 
+len(var_0xINPUT_176947) = 0 
+ 
+len(var_0xINPUT_176947) = 0 
+ 
+len(var_0xINPUT_176947) = 0 
+ 
+! (len(var_0xINPUT_176947) = 0) 
+ 
+ 
+len(var_0xINPUT_176947) = 0 
+ 
+len(var_0xINPUT_176947) = 0 
+ 
+len(var_0xINPUT_176947) = 0 
+ 
+! (len(var_0xINPUT_176947) = 0) 
+ 
+ 
+len(var_0xINPUT_176947) = 0 
+ 
+len(var_0xINPUT_176947) = 0 
+ 
+len(var_0xINPUT_176947) = 0 
+ 
+! (len(var_0xINPUT_176947) = 0) 
+ 
+ 
+len(var_0xINPUT_176947) = 0 
+ 
+len(var_0xINPUT_176947) = 0 
+ 
+len(var_0xINPUT_176947) = 0 
+ 
+! (len(var_0xINPUT_176947) = 0) 
+ 
+ 
+len(var_0xINPUT_176947) = 0 
+ 
+! (var_0xINPUT_176947="Example:") 
+ 
+ 
+! (var_0xINPUT_176947="CQALcCP5TB") 
+query var_0xINPUT_176947

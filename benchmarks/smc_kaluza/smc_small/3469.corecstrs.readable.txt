@@ -1,0 +1,14 @@
+ 
+ 
+ 
+ 
+ 
+ 
+var_0xINPUT_126698=T1_2.T2_2 
+T2_2=PCTEMP_LHS_1.T3_2 
+len(T1_2) = 30 
+ 
+PCTEMP_LHS_2=PCTEMP_LHS_1 
+len (var_0xINPUT_126698) >= 48
+len (PCTEMP_LHS_1) >= 0
+query var_0xINPUT_126698

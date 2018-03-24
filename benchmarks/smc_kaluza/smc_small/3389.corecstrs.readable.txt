@@ -1,0 +1,11 @@
+T_1=T1_4.T2_4 
+T2_4=var_0xINPUT_47744 
+len(T1_4) = 0 
+! ("-"=T_1) 
+ 
+ 
+T_4=T1_8.T2_8 
+T2_8=var_0xINPUT_47744 
+len(T1_8) = 0 
+! (len(T_4) = 0) 
+query var_0xINPUT_47744

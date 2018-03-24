@@ -1,0 +1,14 @@
+T2_2=PCTEMP_LHS_1_idx_2 
+T0_2=var_0xINPUT_2 
+M1_2="=" 
+! (PCTEMP_LHS_1_idx_1 in /=/) 
+P1_2=PCTEMP_LHS_1_idx_1.M1_2 
+T1_2=P1_2.T2_2 
+M0_2="=" 
+! (PCTEMP_LHS_1_idx_0 in /=/) 
+P0_2=PCTEMP_LHS_1_idx_0.M0_2 
+T0_2=P0_2.T1_2 
+ 
+T_2=PCTEMP_LHS_1_idx_0 
+! (T_2="Hello") 
+query var_0xINPUT_2

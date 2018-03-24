@@ -1,0 +1,2 @@
+! ("KAPJaOUDE3"=var_0xINPUT_184958) 
+query var_0xINPUT_184958

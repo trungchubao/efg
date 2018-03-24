@@ -1,0 +1,2 @@
+! ("KXPbOWaB7a"=var_0xINPUT_106286) 
+query var_0xINPUT_106286

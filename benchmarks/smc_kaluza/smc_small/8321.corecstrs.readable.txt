@@ -1,0 +1,2 @@
+! ("NDOxOncDPL"=var_0xINPUT_104872) 
+query var_0xINPUT_104872

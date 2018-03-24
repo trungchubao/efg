@@ -1,0 +1,4 @@
+"CQALcCP5TB"=var_0xINPUT_77071 
+ 
+var_0xINPUT_77071="AA1ND6MEXd" 
+query var_0xINPUT_77071

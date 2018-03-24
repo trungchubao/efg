@@ -1,0 +1,16 @@
+ 
+ 
+ 
+ 
+ 
+ 
+var_0xINPUT_19=T1_2.T2_2 
+T2_2=PCTEMP_LHS_1.T3_2 
+len(T1_2) = 0 
+ 
+PCTEMP_LHS_1="Hello" 
+ 
+! (PCTEMP_LHS_1="hello") 
+len (var_0xINPUT_19) >= 5
+len (PCTEMP_LHS_1) >= 0
+query var_0xINPUT_19

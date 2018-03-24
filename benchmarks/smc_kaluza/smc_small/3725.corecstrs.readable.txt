@@ -1,0 +1,7 @@
+! (PCTEMP_LHS_1 in /^\s+|\s+$/) 
+PCTEMP_LHS_1=var_0xINPUT_84946 
+! (len(PCTEMP_LHS_1) = 0) 
+ 
+ 
+PCTEMP_LHS_1="Listy" 
+query var_0xINPUT_84946

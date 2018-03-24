@@ -1,0 +1,5 @@
+! ("-"=var_0xINPUT_107905) 
+ 
+ 
+! (len(var_0xINPUT_107905) = 0) 
+query var_0xINPUT_107905

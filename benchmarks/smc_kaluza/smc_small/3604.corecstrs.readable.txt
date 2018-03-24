@@ -1,0 +1,9 @@
+len(var_0xINPUT_65884) = 0 
+ 
+len(var_0xINPUT_65884) = 0 
+ 
+! (var_0xINPUT_65884="Example:") 
+ 
+ 
+! (var_0xINPUT_65884="ND6MEXdqBD") 
+query var_0xINPUT_65884

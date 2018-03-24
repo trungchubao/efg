@@ -1,0 +1,5 @@
+! ("AA1ND6MEXd"=var_0xINPUT_87518) 
+ 
+ 
+! (var_0xINPUT_87518="AA1ND6MEXd") 
+query var_0xINPUT_87518

@@ -1,0 +1,2 @@
+"BDZECRZPQ2"=var_0xINPUT_179141 
+query var_0xINPUT_179141

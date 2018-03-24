@@ -1,0 +1,5 @@
+T_1=T1_3.T2_3 
+T2_3=var_0xINPUT_100784 
+len(T1_3) = 0 
+"-"=T_1 
+query var_0xINPUT_100784

@@ -1,0 +1,2 @@
+! (var_0xINPUT_123747="Type") 
+query var_0xINPUT_123747

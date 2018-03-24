@@ -1,0 +1,14 @@
+len(var_0xINPUT_278559) = 0 
+ 
+len(var_0xINPUT_278559) = 0 
+ 
+! (var_0xINPUT_278559="Example:") 
+ 
+ 
+len(var_0xINPUT_278559) = 0 
+ 
+! (var_0xINPUT_278559="Example:") 
+ 
+ 
+! (var_0xINPUT_278559="ywUN4ZIDAC") 
+query var_0xINPUT_278559

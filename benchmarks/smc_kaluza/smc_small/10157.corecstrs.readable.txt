@@ -1,0 +1,2 @@
+! ("https:"=var_0xINPUT_35617) 
+query var_0xINPUT_35617

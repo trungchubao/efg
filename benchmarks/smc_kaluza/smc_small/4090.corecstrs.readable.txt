@@ -1,0 +1,6 @@
+len(var_0xINPUT_32898) = 0 
+ 
+len(var_0xINPUT_32898) = 0 
+ 
+! (var_0xINPUT_32898="K9BOAGJDFi") 
+query var_0xINPUT_32898

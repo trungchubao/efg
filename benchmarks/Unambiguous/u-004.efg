@@ -1,0 +1,14 @@
+Terminal = (|s,t,i,n,k,h,e,f,a,c,d,o,g,m,z,b,r|)
+Non-terminal = (|S,N1,N2,N3,N4,V1,V2,V3,V4,C,D,S1|)
+S = N1.V1|N2.V2
+N1= D.N3.S1
+N2= D.N4
+V1= V3.N2
+V2= V4.S1|"stink"
+S1= C.S
+D = "the"
+N3= "fact"
+N4= "cats"|"dogs"
+C = "that"
+V4= "think"
+V3= "amazes"|"bothers"

@@ -1,0 +1,167 @@
+T_1=T1_4.T2_4 
+T2_4=var_0xINPUT_14322 
+len(T1_4) = 0 
+! ("-"=T_1) 
+ 
+ 
+T_4=T1_8.T2_8 
+T2_8=var_0xINPUT_14322 
+len(T1_8) = 0 
+! (len(T_4) = 0) 
+ 
+ 
+T_7=T1_12.T2_12 
+T2_12=var_0xINPUT_14322 
+len(T1_12) = 0 
+! (len(T_7) = 0) 
+ 
+ 
+T_a=T1_16.T2_16 
+T2_16=var_0xINPUT_14322 
+len(T1_16) = 0 
+! (len(T_a) = 0) 
+ 
+ 
+T_d=T1_20.T2_20 
+T2_20=var_0xINPUT_14322 
+len(T1_20) = 0 
+! ("-"=T_d) 
+ 
+ 
+T_10=T1_24.T2_24 
+T2_24=var_0xINPUT_14322 
+len(T1_24) = 0 
+! (len(T_10) = 0) 
+ 
+ 
+T_13=T1_28.T2_28 
+T2_28=var_0xINPUT_14322 
+len(T1_28) = 0 
+! (len(T_13) = 0) 
+ 
+ 
+T_16=T1_32.T2_32 
+T2_32=var_0xINPUT_14322 
+len(T1_32) = 0 
+! (len(T_16) = 0) 
+ 
+ 
+T_19=T1_36.T2_36 
+T2_36=var_0xINPUT_14322 
+len(T1_36) = 0 
+! ("-"=T_19) 
+ 
+ 
+T_1c=T1_40.T2_40 
+T2_40=var_0xINPUT_14322 
+len(T1_40) = 0 
+! (len(T_1c) = 0) 
+ 
+ 
+T_1f=T1_44.T2_44 
+T2_44=var_0xINPUT_14322 
+len(T1_44) = 0 
+! (len(T_1f) = 0) 
+ 
+ 
+T_22=T1_48.T2_48 
+T2_48=var_0xINPUT_14322 
+len(T1_48) = 0 
+! (len(T_22) = 0) 
+ 
+ 
+T_25=T1_52.T2_52 
+T2_52=var_0xINPUT_14322 
+len(T1_52) = 0 
+! ("-"=T_25) 
+ 
+ 
+T_28=T1_56.T2_56 
+T2_56=var_0xINPUT_14322 
+len(T1_56) = 0 
+! (len(T_28) = 0) 
+ 
+ 
+T_2b=T1_60.T2_60 
+T2_60=var_0xINPUT_14322 
+len(T1_60) = 0 
+! (len(T_2b) = 0) 
+ 
+ 
+T_2e=T1_64.T2_64 
+T2_64=var_0xINPUT_14322 
+len(T1_64) = 0 
+! (len(T_2e) = 0) 
+ 
+ 
+T_31=T1_68.T2_68 
+T2_68=var_0xINPUT_14322 
+len(T1_68) = 0 
+! ("-"=T_31) 
+ 
+ 
+T_34=T1_72.T2_72 
+T2_72=var_0xINPUT_14322 
+len(T1_72) = 0 
+! (len(T_34) = 0) 
+ 
+ 
+T_37=T1_76.T2_76 
+T2_76=var_0xINPUT_14322 
+len(T1_76) = 0 
+! (len(T_37) = 0) 
+ 
+ 
+T_3a=T1_80.T2_80 
+T2_80=var_0xINPUT_14322 
+len(T1_80) = 0 
+! (len(T_3a) = 0) 
+ 
+ 
+T_3d=T1_84.T2_84 
+T2_84=var_0xINPUT_14322 
+len(T1_84) = 0 
+! ("-"=T_3d) 
+ 
+ 
+T_40=T1_88.T2_88 
+T2_88=var_0xINPUT_14322 
+len(T1_88) = 0 
+! (len(T_40) = 0) 
+ 
+ 
+T_43=T1_92.T2_92 
+T2_92=var_0xINPUT_14322 
+len(T1_92) = 0 
+! (len(T_43) = 0) 
+ 
+ 
+T_46=T1_96.T2_96 
+T2_96=var_0xINPUT_14322 
+len(T1_96) = 0 
+! (len(T_46) = 0) 
+ 
+ 
+T_49=T1_100.T2_100 
+T2_100=var_0xINPUT_14322 
+len(T1_100) = 0 
+! ("-"=T_49) 
+ 
+ 
+T_4c=T1_104.T2_104 
+T2_104=var_0xINPUT_14322 
+len(T1_104) = 0 
+! (len(T_4c) = 0) 
+ 
+ 
+T_4f=T1_108.T2_108 
+T2_108=var_0xINPUT_14322 
+len(T1_108) = 0 
+! (len(T_4f) = 0) 
+ 
+ 
+T_52=T1_112.T2_112 
+T2_112=var_0xINPUT_14322 
+len(T1_112) = 0 
+! (len(T_52) = 0) 
+query var_0xINPUT_14322

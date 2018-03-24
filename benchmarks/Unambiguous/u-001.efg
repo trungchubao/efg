@@ -1,0 +1,3 @@
+Terminal = (|a,b,c|)
+Non-terminal = (|S|)
+S = a+S+a|b+S+b|c

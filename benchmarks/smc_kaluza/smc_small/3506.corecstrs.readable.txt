@@ -1,0 +1,10 @@
+! ("YY8CBEMy6Q"=var_0xINPUT_244234) 
+ 
+ 
+len(var_0xINPUT_244234) = 0 
+ 
+! (var_0xINPUT_244234="Example:") 
+ 
+ 
+! (var_0xINPUT_244234="YY8CBEMy6Q") 
+query var_0xINPUT_244234

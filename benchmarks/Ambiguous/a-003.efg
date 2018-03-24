@@ -1,0 +1,5 @@
+Terminal = (|*,(,),a|)
+Non-terminal = (|E,T,F|)
+E = E+*+T|T
+T = T+*+F|F
+F = (+E+)|a

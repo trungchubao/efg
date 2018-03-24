@@ -1,0 +1,7 @@
+Terminal = (|a,b,c,d|)
+Non-terminal = (|S,A,B,C,D|)
+S = A+B|C
+A = a+A+b|a+b
+B = c+B+d|c+d
+C = a+C+d|a+D+d
+D = b+D+c|b+c

@@ -1,0 +1,2 @@
+"BcNjBXcSeL"=var_0xINPUT_128130 
+query var_0xINPUT_128130

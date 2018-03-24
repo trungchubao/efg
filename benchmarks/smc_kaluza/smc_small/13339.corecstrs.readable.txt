@@ -1,0 +1,2 @@
+"ORW9157DDf"=var_0xINPUT_105070 
+query var_0xINPUT_105070
